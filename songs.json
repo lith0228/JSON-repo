@@ -890,340 +890,126 @@
     "25": [
         {
             "id": 1,
-            "aName": "aomine daiki",
+            "aName": "million",
             "aid": 25,
-            "name": "Aomine Daiki (spedup)",
+            "name": "Million",
             "format": "FLAC 16Bit",
-            "size": "29.9mb",
+            "size": "15.3mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "Big Baby Tape",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/million/million.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/million/cover.png"
         },
         {
             "id": 2,
-            "aName": "aomine daiki",
+            "aName": "million",
             "aid": 25,
-            "name": "Aomine Daiki (slowed)",
+            "name": "Million (slowed)",
             "format": "FLAC 16Bit",
-            "size": "36.8mb",
+            "size": "17.3mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "Big Baby Tape",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/million/million-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/million/cover.png"
         },
         {
             "id": 3,
-            "aName": "aomine daiki",
+            "aName": "million",
             "aid": 25,
-            "name": "Aomine Daiki",
+            "name": "Million (spedup)",
             "format": "FLAC 16Bit",
-            "size": "32.2mb",
+            "size": "13.5mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "Big Baby Tape",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/million/million-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/million/cover.png"
         }
     ],
     "26": [
         {
             "id": 1,
-            "aName": "aomine daiki",
+            "aName": "luv blade",
             "aid": 26,
-            "name": "Aomine Daiki (spedup)",
+            "name": "LUV BLADE",
             "format": "FLAC 16Bit",
-            "size": "29.9mb",
+            "size": "22.5mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "ANTICXLTURE",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/luv-blade.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/cover.png"
         },
         {
             "id": 2,
-            "aName": "aomine daiki",
+            "aName": "luv blade",
             "aid": 26,
-            "name": "Aomine Daiki (slowed)",
+            "name": "LUV BLADE (spedup)",
             "format": "FLAC 16Bit",
-            "size": "36.8mb",
+            "size": "19.6mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "ANTICXLTURE",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/luv-blade-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/cover.png"
         },
         {
             "id": 3,
-            "aName": "aomine daiki",
+            "aName": "luv blade",
             "aid": 26,
-            "name": "Aomine Daiki",
+            "name": "LUV BLADE (slowed)",
             "format": "FLAC 16Bit",
-            "size": "32.2mb",
+            "size": "24.9mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "ANTICXLTURE",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/luv-blade-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/cover.png"
         }
     ],
     "27": [
         {
             "id": 1,
-            "aName": "aomine daiki",
+            "aName": "\u0422\u0435\u0441\u043d\u043e",
             "aid": 27,
-            "name": "Aomine Daiki (spedup)",
+            "name": "\u0422\u0435\u0441\u043d\u043e",
             "format": "FLAC 16Bit",
-            "size": "29.9mb",
+            "size": "14.6mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "bushido zho",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/\u0422\u0435\u0441\u043d\u043e.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/cover.png"
         },
         {
             "id": 2,
-            "aName": "aomine daiki",
+            "aName": "\u0422\u0435\u0441\u043d\u043e",
             "aid": 27,
-            "name": "Aomine Daiki (slowed)",
+            "name": "\u0422\u0435\u0441\u043d\u043e (slowed)",
             "format": "FLAC 16Bit",
-            "size": "36.8mb",
+            "size": "16.5mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "bushido zho",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/\u0422\u0435\u0441\u043d\u043e-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/cover.png"
         },
         {
             "id": 3,
-            "aName": "aomine daiki",
+            "aName": "\u0422\u0435\u0441\u043d\u043e",
             "aid": 27,
-            "name": "Aomine Daiki",
+            "name": "\u0422\u0435\u0441\u043d\u043e (spedup)",
             "format": "FLAC 16Bit",
-            "size": "32.2mb",
+            "size": "12.8mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+            "artist": "bushido zho",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/\u0422\u0435\u0441\u043d\u043e-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/cover.png"
         }
     ],
     "28": [
         {
             "id": 1,
-            "aName": "aomine daiki",
+            "aName": "snowfall",
             "aid": 28,
-            "name": "Aomine Daiki (spedup)",
+            "name": "snowfall",
             "format": "FLAC 16Bit",
-            "size": "29.9mb",
+            "size": "7.0mb",
             "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
-        },
-        {
-            "id": 2,
-            "aName": "aomine daiki",
-            "aid": 28,
-            "name": "Aomine Daiki (slowed)",
-            "format": "FLAC 16Bit",
-            "size": "36.8mb",
-            "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
-        },
-        {
-            "id": 3,
-            "aName": "aomine daiki",
-            "aid": 28,
-            "name": "Aomine Daiki",
-            "format": "FLAC 16Bit",
-            "size": "32.2mb",
-            "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
-        }
-    ],
-    "29": [
-        {
-            "id": 1,
-            "aName": "i hurt myself",
-            "aid": 29,
-            "name": "i hurt myself (slowed)",
-            "format": "FLAC 16Bit",
-            "size": "15.2mb",
-            "ext": ".flac",
-            "artist": "sylene xo",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
-        },
-        {
-            "id": 2,
-            "aName": "i hurt myself",
-            "aid": 29,
-            "name": "i hurt myself",
-            "format": "FLAC 16Bit",
-            "size": "13.2mb",
-            "ext": ".flac",
-            "artist": "sylene xo",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
-        },
-        {
-            "id": 3,
-            "aName": "i hurt myself",
-            "aid": 29,
-            "name": "i hurt myself (spedup)",
-            "format": "FLAC 16Bit",
-            "size": "11.9mb",
-            "ext": ".flac",
-            "artist": "sylene xo",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
-        }
-    ],
-    "30": [
-        {
-            "id": 1,
-            "aName": "aomine daiki",
-            "aid": 30,
-            "name": "Aomine Daiki (spedup)",
-            "format": "FLAC 16Bit",
-            "size": "29.9mb",
-            "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
-        },
-        {
-            "id": 2,
-            "aName": "aomine daiki",
-            "aid": 30,
-            "name": "Aomine Daiki (slowed)",
-            "format": "FLAC 16Bit",
-            "size": "36.8mb",
-            "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
-        },
-        {
-            "id": 3,
-            "aName": "aomine daiki",
-            "aid": 30,
-            "name": "Aomine Daiki",
-            "format": "FLAC 16Bit",
-            "size": "32.2mb",
-            "ext": ".flac",
-            "artist": "quiizzzmeow",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
-        }
-    ],
-    "31": [
-        {
-            "id": 1,
-            "aName": "kill bill",
-            "aid": 31,
-            "name": "KILL BILL",
-            "format": "FLAC 16Bit",
-            "size": "25.9mb",
-            "ext": ".flac",
-            "artist": "sonny",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
-        },
-        {
-            "id": 2,
-            "aName": "kill bill",
-            "aid": 31,
-            "name": "KILL BILL (spedup)",
-            "format": "FLAC 16Bit",
-            "size": "22.2mb",
-            "ext": ".flac",
-            "artist": "sonny",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
-        },
-        {
-            "id": 3,
-            "aName": "kill bill",
-            "aid": 31,
-            "name": "KILL BILL (slowed)",
-            "format": "FLAC 16Bit",
-            "size": "29.8mb",
-            "ext": ".flac",
-            "artist": "sonny",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
-        }
-    ],
-    "32": [
-        {
-            "id": 1,
-            "aName": "grief",
-            "aid": 32,
-            "name": "GRIEF (spedup)",
-            "format": "FLAC 16Bit",
-            "size": "13.6mb",
-            "ext": ".flac",
-            "artist": "DXTA!",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
-        },
-        {
-            "id": 2,
-            "aName": "grief",
-            "aid": 32,
-            "name": "GRIEF (slowed)",
-            "format": "FLAC 16Bit",
-            "size": "17.4mb",
-            "ext": ".flac",
-            "artist": "DXTA!",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
-        },
-        {
-            "id": 3,
-            "aName": "grief",
-            "aid": 32,
-            "name": "GRIEF",
-            "format": "FLAC 16Bit",
-            "size": "15.5mb",
-            "ext": ".flac",
-            "artist": "DXTA!",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
-        }
-    ],
-    "33": [
-        {
-            "id": 1,
-            "aName": "molly queen",
-            "aid": 33,
-            "name": "molly queen (spedup)",
-            "format": "FLAC 16Bit",
-            "size": "24.5mb",
-            "ext": ".flac",
-            "artist": "octi",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen-(spedup).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
-        },
-        {
-            "id": 2,
-            "aName": "molly queen",
-            "aid": 33,
-            "name": "molly queen",
-            "format": "FLAC 16Bit",
-            "size": "29.0mb",
-            "ext": ".flac",
-            "artist": "octi",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen.flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
-        },
-        {
-            "id": 3,
-            "aName": "molly queen",
-            "aid": 33,
-            "name": "molly queen (slowed)",
-            "format": "FLAC 16Bit",
-            "size": "33.3mb",
-            "ext": ".flac",
-            "artist": "octi",
-            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen-(slowed).flac",
-            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
+            "artist": "reidenshi",
+            "link": "https://raw.githubusercontent.com/lith228/upload-test/main/snowfall/snowfall.flac",
+            
