@@ -1,1 +1,1229 @@
-
+{
+    "1": [
+        {
+            "id": 1,
+            "aName": "she wnna",
+            "aid": 1,
+            "name": "she wnna (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "14.3mb",
+            "ext": ".flac",
+            "artist": "SUICIDAL-IDOL",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/she-wnna-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "she wnna",
+            "aid": 1,
+            "name": "she wnna",
+            "format": "FLAC 16Bit",
+            "size": "16.0mb",
+            "ext": ".flac",
+            "artist": "SUICIDAL-IDOL",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/she-wnna.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "she wnna",
+            "aid": 1,
+            "name": "she wnna (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "18.4mb",
+            "ext": ".flac",
+            "artist": "SUICIDAL-IDOL",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/she-wnna-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/cover.png"
+        }
+    ],
+    "2": [
+        {
+            "id": 1,
+            "aName": "time4me",
+            "aid": 2,
+            "name": "time4me",
+            "format": "MP3 320kbps",
+            "size": "2mb",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/time4me/time4me-w6arelyhuman-number48-original.mp3",
+            "ext": ".mp3",
+            "artist": "sylene xo",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/time4me/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "time4me",
+            "aid": 2,
+            "name": "time4me (spedup)",
+            "format": "MP3 320kbps",
+            "size": "3.9mb",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/time4me/time4me-w6arelyhuman-number48.mp3",
+            "ext": ".mp3",
+            "artist": "sylene xo",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/time4me/cover.png"
+        }
+    ],
+    "3": [
+        {
+            "id": 1,
+            "aName": "popstar",
+            "aid": 3,
+            "name": "popst\u2606r",
+            "format": "FLAC 16Bit",
+            "size": "18.4mb",
+            "ext": ".flac",
+            "artist": "03ocs",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/popst\u2606r.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "popstar",
+            "aid": 3,
+            "name": "popst\u2606r (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "16.0mb",
+            "ext": ".flac",
+            "artist": "03ocs",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/popst\u2606r-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "popstar",
+            "aid": 3,
+            "name": "popst\u2606r (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "32.3mb",
+            "ext": ".flac",
+            "artist": "03ocs",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/popst\u2606r-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/cover.png"
+        }
+    ],
+    "4": [
+        {
+            "id": 1,
+            "aName": "t0xic",
+            "aid": 4,
+            "name": "t0xic w/xaxanity",
+            "format": "FLAC 24Bit",
+            "size": "42.4mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/t0xic/t0xic-xaxanity-original.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/t0xic/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "t0xic",
+            "aid": 4,
+            "name": "t0xic w/xaxanity (spedup)",
+            "format": "FLAC 24Bit",
+            "size": "35.0mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/t0xic/t0xic-xaxanity.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/t0xic/cover.png"
+        }
+    ],
+    "5": [
+        {
+            "id": 1,
+            "aName": "crazy story pt3",
+            "aid": 5,
+            "name": "crazy story pt3",
+            "format": "FLAC 16Bit",
+            "size": "35.2mb",
+            "ext": ".flac",
+            "artist": "KING VON",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/crazy-story-pt3.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "crazy story pt3",
+            "aid": 5,
+            "name": "crazy story pt3 (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "32.7mb",
+            "ext": ".flac",
+            "artist": "KING VON",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/crazy-story-pt3-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "crazy story pt3",
+            "aid": 5,
+            "name": "crazy story pt3 (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "40.6mb",
+            "ext": ".flac",
+            "artist": "KING VON",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/crazy-story-pt3-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/cover.png"
+        }
+    ],
+    "6": [
+        {
+            "id": 1,
+            "aName": "tonight",
+            "aid": 6,
+            "name": "tonight (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "21.6mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/tonight-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "tonight",
+            "aid": 6,
+            "name": "tonight",
+            "format": "FLAC 16Bit",
+            "size": "24.6mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/tonight.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "tonight",
+            "aid": 6,
+            "name": "tonight (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "28.2mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/tonight-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/cover.png"
+        }
+    ],
+    "7": [
+        {
+            "id": 1,
+            "aName": "i hurt myself",
+            "aid": 7,
+            "name": "i hurt myself (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "15.2mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "i hurt myself",
+            "aid": 7,
+            "name": "i hurt myself",
+            "format": "FLAC 16Bit",
+            "size": "13.2mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "i hurt myself",
+            "aid": 7,
+            "name": "i hurt myself (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "11.9mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
+        }
+    ],
+    "8": [
+        {
+            "id": 1,
+            "aName": "molly queen",
+            "aid": 8,
+            "name": "molly queen (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "24.5mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "molly queen",
+            "aid": 8,
+            "name": "molly queen",
+            "format": "FLAC 16Bit",
+            "size": "29.0mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "molly queen",
+            "aid": 8,
+            "name": "molly queen (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "33.3mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
+        }
+    ],
+    "9": [
+        {
+            "id": 1,
+            "aName": "whippetzZ",
+            "aid": 9,
+            "name": "whippetzZ (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "15.6mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/whippetzZ-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "whippetzZ",
+            "aid": 9,
+            "name": "whippetzZ",
+            "format": "FLAC 16Bit",
+            "size": "13.5mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/whippetzZ.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "whippetzZ",
+            "aid": 9,
+            "name": "whippetzZ (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "12.1mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/whippetzZ-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/cover.png"
+        }
+    ],
+    "10": [
+        {
+            "id": 1,
+            "aName": "untitled",
+            "aid": 10,
+            "name": "untitled (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "30.4mb",
+            "ext": ".flac",
+            "artist": "semmmyq",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/untitled-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "untitled",
+            "aid": 10,
+            "name": "untitled (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "39.4mb",
+            "ext": ".flac",
+            "artist": "semmmyq",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/untitled-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "untitled",
+            "aid": 10,
+            "name": "untitled",
+            "format": "FLAC 16Bit",
+            "size": "35.0mb",
+            "ext": ".flac",
+            "artist": "semmmyq",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/untitled.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/cover.png"
+        }
+    ],
+    "11": [
+        {
+            "id": 1,
+            "aName": "soup",
+            "aid": 11,
+            "name": "soup",
+            "format": "FLAC 16Bit",
+            "size": "35.8mb",
+            "ext": ".flac",
+            "artist": "xaptiox",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/soup.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "soup",
+            "aid": 11,
+            "name": "soup (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "32.1mb",
+            "ext": ".flac",
+            "artist": "xaptiox",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/soup-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "soup",
+            "aid": 11,
+            "name": "soup (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "41.3mb",
+            "ext": ".flac",
+            "artist": "xaptiox",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/soup-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/cover.png"
+        }
+    ],
+    "12": [
+        {
+            "id": 1,
+            "aName": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e",
+            "aid": 12,
+            "name": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "24.7mb",
+            "ext": ".flac",
+            "artist": "LXNER",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/\u0425\u043e\u043b\u043e\u0434\u043d\u043e-slowed.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e",
+            "aid": 12,
+            "name": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e",
+            "format": "FLAC 16Bit",
+            "size": "21.5mb",
+            "ext": ".flac",
+            "artist": "LXNER",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/\u0425\u043e\u043b\u043e\u0434\u043d\u043e.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e",
+            "aid": 12,
+            "name": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "19.3mb",
+            "ext": ".flac",
+            "artist": "LXNER",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/\u0425\u043e\u043b\u043e\u0434\u043d\u043e-spedup.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/cover.png"
+        }
+    ],
+    "13": [
+        {
+            "id": 1,
+            "aName": "aomine daiki",
+            "aid": 13,
+            "name": "Aomine Daiki (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "29.9mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "aomine daiki",
+            "aid": 13,
+            "name": "Aomine Daiki (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "36.8mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "aomine daiki",
+            "aid": 13,
+            "name": "Aomine Daiki",
+            "format": "FLAC 16Bit",
+            "size": "32.2mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        }
+    ],
+    "14": [
+        {
+            "id": 1,
+            "aName": "kill bill",
+            "aid": 14,
+            "name": "KILL BILL",
+            "format": "FLAC 16Bit",
+            "size": "25.9mb",
+            "ext": ".flac",
+            "artist": "sonny",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "kill bill",
+            "aid": 14,
+            "name": "KILL BILL (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "22.2mb",
+            "ext": ".flac",
+            "artist": "sonny",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "kill bill",
+            "aid": 14,
+            "name": "KILL BILL (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "29.8mb",
+            "ext": ".flac",
+            "artist": "sonny",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
+        }
+    ],
+    "15": [
+        {
+            "id": 1,
+            "aName": "kurxxed emeraldz",
+            "aid": 15,
+            "name": "Kurxxed Emeraldz (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "12.8mb",
+            "ext": ".flac",
+            "artist": "Luci4",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/kurxxed-emeraldz-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "kurxxed emeraldz",
+            "aid": 15,
+            "name": "Kurxxed Emeraldz (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "10.1mb",
+            "ext": ".flac",
+            "artist": "Luci4",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/kurxxed-emeraldz-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "kurxxed emeraldz",
+            "aid": 15,
+            "name": "Kurxxed Emeraldz",
+            "format": "FLAC 16Bit",
+            "size": "11.2mb",
+            "ext": ".flac",
+            "artist": "Luci4",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/kurxxed-emeraldz.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/cover.png"
+        }
+    ],
+    "16": [
+        {
+            "id": 1,
+            "aName": "noodles",
+            "aid": 16,
+            "name": "noodles (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "31.7mb",
+            "ext": ".flac",
+            "artist": "xaptiox",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/noodles-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "noodles",
+            "aid": 16,
+            "name": "noodles (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "40.1mb",
+            "ext": ".flac",
+            "artist": "xaptiox",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/noodles-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "noodles",
+            "aid": 16,
+            "name": "noodles",
+            "format": "FLAC 16Bit",
+            "size": "35.3mb",
+            "ext": ".flac",
+            "artist": "xaptiox",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/noodles.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/cover.png"
+        }
+    ],
+    "17": [
+        {
+            "id": 1,
+            "aName": "want u like a charm bracelet",
+            "aid": 17,
+            "name": "want u like a charm bracelet",
+            "format": "FLAC 16Bit",
+            "size": "38.1mb",
+            "ext": ".flac",
+            "artist": "syris",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/want-u-like-a-charm-bracelet.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "want u like a charm bracelet",
+            "aid": 17,
+            "name": "want u like a charm bracelet (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "43.5mb",
+            "ext": ".flac",
+            "artist": "syris",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/want-u-like-a-charm-bracelet-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "want u like a charm bracelet",
+            "aid": 17,
+            "name": "want u like a charm bracelet (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "34.4mb",
+            "ext": ".flac",
+            "artist": "syris",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/want-u-like-a-charm-bracelet-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/cover.png"
+        }
+    ],
+    "18": [
+        {
+            "id": 1,
+            "aName": "grief",
+            "aid": 18,
+            "name": "GRIEF (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "13.6mb",
+            "ext": ".flac",
+            "artist": "DXTA!",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "grief",
+            "aid": 18,
+            "name": "GRIEF (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "17.4mb",
+            "ext": ".flac",
+            "artist": "DXTA!",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "grief",
+            "aid": 18,
+            "name": "GRIEF",
+            "format": "FLAC 16Bit",
+            "size": "15.5mb",
+            "ext": ".flac",
+            "artist": "DXTA!",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
+        }
+    ],
+    "19": [
+        {
+            "id": 1,
+            "aName": "mary jane",
+            "aid": 19,
+            "name": "Mary Jane (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "20.5mb",
+            "ext": ".flac",
+            "artist": "lil 17th",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/mary-jane-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "mary jane",
+            "aid": 19,
+            "name": "Mary Jane",
+            "format": "FLAC 16Bit",
+            "size": "18.2mb",
+            "ext": ".flac",
+            "artist": "lil 17th",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/mary-jane.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "mary jane",
+            "aid": 19,
+            "name": "Mary Jane (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "16.5mb",
+            "ext": ".flac",
+            "artist": "lil 17th",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/mary-jane-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/cover.png"
+        }
+    ],
+    "20": [
+        {
+            "id": 1,
+            "aName": "raving all night",
+            "aid": 20,
+            "name": "RAVING ALL NIGHT (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "14.8mb",
+            "ext": ".flac",
+            "artist": "4rde",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/raving-all-night-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "raving all night",
+            "aid": 20,
+            "name": "RAVING ALL NIGHT",
+            "format": "FLAC 16Bit",
+            "size": "13.2mb",
+            "ext": ".flac",
+            "artist": "4rde",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/raving-all-night.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "raving all night",
+            "aid": 20,
+            "name": "RAVING ALL NIGHT (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "11.9mb",
+            "ext": ".flac",
+            "artist": "4rde",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/raving-all-night-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/cover.png"
+        }
+    ],
+    "21": [
+        {
+            "id": 1,
+            "aName": "wanna hang",
+            "aid": 21,
+            "name": "wANNA hANG! (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "19.0mb",
+            "ext": ".flac",
+            "artist": "Eurodancer07",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/wanna-hang-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "wanna hang",
+            "aid": 21,
+            "name": "wANNA hANG! (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "25.1mb",
+            "ext": ".flac",
+            "artist": "Eurodancer07",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/wanna-hang-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "wanna hang",
+            "aid": 21,
+            "name": "wANNA hANG!",
+            "format": "FLAC 16Bit",
+            "size": "22.4mb",
+            "ext": ".flac",
+            "artist": "Eurodancer07",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/wanna-hang.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/cover.png"
+        }
+    ],
+    "22": [
+        {
+            "id": 1,
+            "aName": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c",
+            "aid": 22,
+            "name": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "22.3mb",
+            "ext": ".flac",
+            "artist": "painer",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c",
+            "aid": 22,
+            "name": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c",
+            "format": "FLAC 16Bit",
+            "size": "20.1mb",
+            "ext": ".flac",
+            "artist": "painer",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c",
+            "aid": 22,
+            "name": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "17.4mb",
+            "ext": ".flac",
+            "artist": "painer",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/cover.png"
+        }
+    ],
+    "23": [
+        {
+            "id": 1,
+            "aName": "\u041d\u041e\u0427\u042c\u042e",
+            "aid": 23,
+            "name": "\u041d\u041e\u0427\u042c\u042e (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "13.8mb",
+            "ext": ".flac",
+            "artist": "44neverluv",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/nochyu-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "\u041d\u041e\u0427\u042c\u042e",
+            "aid": 23,
+            "name": "\u041d\u041e\u0427\u042c\u042e",
+            "format": "FLAC 16Bit",
+            "size": "15.5mb",
+            "ext": ".flac",
+            "artist": "44neverluv",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/nochyu.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "\u041d\u041e\u0427\u042c\u042e",
+            "aid": 23,
+            "name": "\u041d\u041e\u0427\u042c\u042e (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "17.5mb",
+            "ext": ".flac",
+            "artist": "44neverluv",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/nochyu-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/cover.png"
+        }
+    ],
+    "24": [
+        {
+            "id": 1,
+            "aName": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438",
+            "aid": 24,
+            "name": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438 (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "15.0mb",
+            "ext": ".flac",
+            "artist": "Karna.val",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/romashki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438",
+            "aid": 24,
+            "name": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438",
+            "format": "FLAC 16Bit",
+            "size": "17.0mb",
+            "ext": ".flac",
+            "artist": "Karna.val",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/romashki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438",
+            "aid": 24,
+            "name": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438 (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "19.1mb",
+            "ext": ".flac",
+            "artist": "Karna.val",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/romashki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/cover.png"
+        }
+    ],
+    "25": [
+        {
+            "id": 1,
+            "aName": "aomine daiki",
+            "aid": 25,
+            "name": "Aomine Daiki (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "29.9mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "aomine daiki",
+            "aid": 25,
+            "name": "Aomine Daiki (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "36.8mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "aomine daiki",
+            "aid": 25,
+            "name": "Aomine Daiki",
+            "format": "FLAC 16Bit",
+            "size": "32.2mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        }
+    ],
+    "26": [
+        {
+            "id": 1,
+            "aName": "aomine daiki",
+            "aid": 26,
+            "name": "Aomine Daiki (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "29.9mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "aomine daiki",
+            "aid": 26,
+            "name": "Aomine Daiki (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "36.8mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "aomine daiki",
+            "aid": 26,
+            "name": "Aomine Daiki",
+            "format": "FLAC 16Bit",
+            "size": "32.2mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        }
+    ],
+    "27": [
+        {
+            "id": 1,
+            "aName": "aomine daiki",
+            "aid": 27,
+            "name": "Aomine Daiki (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "29.9mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "aomine daiki",
+            "aid": 27,
+            "name": "Aomine Daiki (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "36.8mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "aomine daiki",
+            "aid": 27,
+            "name": "Aomine Daiki",
+            "format": "FLAC 16Bit",
+            "size": "32.2mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        }
+    ],
+    "28": [
+        {
+            "id": 1,
+            "aName": "aomine daiki",
+            "aid": 28,
+            "name": "Aomine Daiki (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "29.9mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "aomine daiki",
+            "aid": 28,
+            "name": "Aomine Daiki (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "36.8mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "aomine daiki",
+            "aid": 28,
+            "name": "Aomine Daiki",
+            "format": "FLAC 16Bit",
+            "size": "32.2mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        }
+    ],
+    "29": [
+        {
+            "id": 1,
+            "aName": "i hurt myself",
+            "aid": 29,
+            "name": "i hurt myself (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "15.2mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "i hurt myself",
+            "aid": 29,
+            "name": "i hurt myself",
+            "format": "FLAC 16Bit",
+            "size": "13.2mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "i hurt myself",
+            "aid": 29,
+            "name": "i hurt myself (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "11.9mb",
+            "ext": ".flac",
+            "artist": "sylene xo",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/i-hurt-myself-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
+        }
+    ],
+    "30": [
+        {
+            "id": 1,
+            "aName": "aomine daiki",
+            "aid": 30,
+            "name": "Aomine Daiki (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "29.9mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "aomine daiki",
+            "aid": 30,
+            "name": "Aomine Daiki (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "36.8mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "aomine daiki",
+            "aid": 30,
+            "name": "Aomine Daiki",
+            "format": "FLAC 16Bit",
+            "size": "32.2mb",
+            "ext": ".flac",
+            "artist": "quiizzzmeow",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/aomine-daiki.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
+        }
+    ],
+    "31": [
+        {
+            "id": 1,
+            "aName": "kill bill",
+            "aid": 31,
+            "name": "KILL BILL",
+            "format": "FLAC 16Bit",
+            "size": "25.9mb",
+            "ext": ".flac",
+            "artist": "sonny",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "kill bill",
+            "aid": 31,
+            "name": "KILL BILL (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "22.2mb",
+            "ext": ".flac",
+            "artist": "sonny",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "kill bill",
+            "aid": 31,
+            "name": "KILL BILL (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "29.8mb",
+            "ext": ".flac",
+            "artist": "sonny",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/kill-bill-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
+        }
+    ],
+    "32": [
+        {
+            "id": 1,
+            "aName": "grief",
+            "aid": 32,
+            "name": "GRIEF (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "13.6mb",
+            "ext": ".flac",
+            "artist": "DXTA!",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "grief",
+            "aid": 32,
+            "name": "GRIEF (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "17.4mb",
+            "ext": ".flac",
+            "artist": "DXTA!",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "grief",
+            "aid": 32,
+            "name": "GRIEF",
+            "format": "FLAC 16Bit",
+            "size": "15.5mb",
+            "ext": ".flac",
+            "artist": "DXTA!",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/grief.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
+        }
+    ],
+    "33": [
+        {
+            "id": 1,
+            "aName": "molly queen",
+            "aid": 33,
+            "name": "molly queen (spedup)",
+            "format": "FLAC 16Bit",
+            "size": "24.5mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen-(spedup).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
+        },
+        {
+            "id": 2,
+            "aName": "molly queen",
+            "aid": 33,
+            "name": "molly queen",
+            "format": "FLAC 16Bit",
+            "size": "29.0mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
+        },
+        {
+            "id": 3,
+            "aName": "molly queen",
+            "aid": 33,
+            "name": "molly queen (slowed)",
+            "format": "FLAC 16Bit",
+            "size": "33.3mb",
+            "ext": ".flac",
+            "artist": "octi",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/molly-queen-(slowed).flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
