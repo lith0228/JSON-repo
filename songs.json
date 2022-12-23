@@ -1596,154 +1596,8 @@
     "6": [
         {
             "id": 1,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "THE FLAME",
-            "format": "FLAC 24Bit",
-            "size": "39.4mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/01%20-%20THE%20FLAME.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 2,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "ODYSSEE",
-            "format": "FLAC 24Bit",
-            "size": "34.9mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/02%20-%20ODYSSEE.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 3,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "ULTRAR\u00caVE",
-            "format": "FLAC 24Bit",
-            "size": "49.3mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/03%20-%20ULTRAR\u00caVE.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 4,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "REEDS",
-            "format": "FLAC 24Bit",
-            "size": "48.0mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/04%20-%20REEDS.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 5,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "MINUIT",
-            "format": "FLAC 24Bit",
-            "size": "43.1mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/05%20-%20MINUIT.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 6,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "FASTLANE",
-            "format": "FLAC 24Bit",
-            "size": "38.5mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/06%20-%20FASTLANE.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 7,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "KEEP WALKING LOVE",
-            "format": "FLAC 24Bit",
-            "size": "40.9mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/07%20-%20KEEP%20WALKING%20LOVE.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 8,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "SAUVAGES",
-            "format": "FLAC 24Bit",
-            "size": "34.6mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/08%20-%20SAUVAGES.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 9,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "H.K.",
-            "format": "K 24Bit",
-            "size": "47.1mb",
-            "ext": ".K",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/09%20-%20H.K..flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 10,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "APOLLO",
-            "format": "FLAC 24Bit",
-            "size": "53.2mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/10%20-%20APOLLO.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 11,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "LES RIVI\u00c8RES",
-            "format": "FLAC 24Bit",
-            "size": "41.7mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/11%20-%20LES%20RIVI\u00c8RES.flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        },
-        {
-            "id": 12,
-            "aName": "Aaron",
-            "aid": 6,
-            "name": "THE FLAME (Piano Version)",
-            "format": "FLAC 24Bit",
-            "size": "33.3mb",
-            "ext": ".flac",
-            "artist": "Aaron",
-            "link": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/12%20-%20THE%20FLAME%20(Piano%20Version).flac",
-            "cover": "https://raw.githubusercontent.com/lith0228/upload-test/main/Aaron/cover.jpg"
-        }
-    ],
-    "7": [
-        {
-            "id": 1,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Enemy (from the series Arcane League of Legends)",
             "format": " IMAGINE DRAGONS - ENEMY (FROM THE SERIES ARCANE LEAGUE OF LEGENDS) 24Bit",
             "size": "36.8mb",
@@ -1755,7 +1609,7 @@
         {
             "id": 2,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Dull Knives",
             "format": " IMAGINE DRAGONS - DULL KNIVES 24Bit",
             "size": "42.1mb",
@@ -1767,7 +1621,7 @@
         {
             "id": 3,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Follow You",
             "format": " IMAGINE DRAGONS - FOLLOW YOU 24Bit",
             "size": "37.7mb",
@@ -1779,7 +1633,7 @@
         {
             "id": 4,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Cutthroat",
             "format": " IMAGINE DRAGONS - CUTTHROAT 24Bit",
             "size": "34.1mb",
@@ -1791,7 +1645,7 @@
         {
             "id": 5,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "No Time For Toxic People",
             "format": " IMAGINE DRAGONS - NO TIME FOR TOXIC PEOPLE 24Bit",
             "size": "44.7mb",
@@ -1803,7 +1657,7 @@
         {
             "id": 6,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "One Day",
             "format": " IMAGINE DRAGONS - ONE DAY 24Bit",
             "size": "30.0mb",
@@ -1815,7 +1669,7 @@
         {
             "id": 7,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Bones",
             "format": " IMAGINE DRAGONS - BONES 24Bit",
             "size": "34.5mb",
@@ -1827,7 +1681,7 @@
         {
             "id": 8,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Symphony",
             "format": " IMAGINE DRAGONS - SYMPHONY 24Bit",
             "size": "37.4mb",
@@ -1839,7 +1693,7 @@
         {
             "id": 9,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Sharks",
             "format": " IMAGINE DRAGONS - SHARKS 24Bit",
             "size": "39.4mb",
@@ -1851,7 +1705,7 @@
         {
             "id": 10,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "I Don't Like Myself",
             "format": " IMAGINE DRAGONS - I DON'T LIKE MYSELF 24Bit",
             "size": "37.6mb",
@@ -1863,7 +1717,7 @@
         {
             "id": 11,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Blur",
             "format": " IMAGINE DRAGONS - BLUR 24Bit",
             "size": "39.0mb",
@@ -1875,7 +1729,7 @@
         {
             "id": 12,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "My Life",
             "format": " IMAGINE DRAGONS - MY LIFE 24Bit",
             "size": "44.8mb",
@@ -1887,7 +1741,7 @@
         {
             "id": 13,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Higher Ground",
             "format": " IMAGINE DRAGONS - HIGHER GROUND 24Bit",
             "size": "34.8mb",
@@ -1899,7 +1753,7 @@
         {
             "id": 14,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Crushed",
             "format": " IMAGINE DRAGONS - CRUSHED 24Bit",
             "size": "39.1mb",
@@ -1911,7 +1765,7 @@
         {
             "id": 15,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Take It Easy",
             "format": " IMAGINE DRAGONS - TAKE IT EASY 24Bit",
             "size": "33.9mb",
@@ -1923,7 +1777,7 @@
         {
             "id": 16,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Waves",
             "format": " IMAGINE DRAGONS - WAVES 24Bit",
             "size": "45.5mb",
@@ -1935,7 +1789,7 @@
         {
             "id": 17,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "I'm Happy",
             "format": " IMAGINE DRAGONS - I'M HAPPY 24Bit",
             "size": "37.4mb",
@@ -1947,7 +1801,7 @@
         {
             "id": 18,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Ferris Wheel",
             "format": " IMAGINE DRAGONS - FERRIS WHEEL 24Bit",
             "size": "38.6mb",
@@ -1959,7 +1813,7 @@
         {
             "id": 19,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Peace Of Mind",
             "format": " IMAGINE DRAGONS - PEACE OF MIND 24Bit",
             "size": "34.9mb",
@@ -1971,7 +1825,7 @@
         {
             "id": 20,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Sirens",
             "format": " IMAGINE DRAGONS - SIRENS 24Bit",
             "size": "31.3mb",
@@ -1983,7 +1837,7 @@
         {
             "id": 21,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Tied",
             "format": " IMAGINE DRAGONS - TIED 24Bit",
             "size": "47.6mb",
@@ -1995,7 +1849,7 @@
         {
             "id": 22,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Younger",
             "format": " IMAGINE DRAGONS - YOUNGER 24Bit",
             "size": "39.8mb",
@@ -2007,7 +1861,7 @@
         {
             "id": 23,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Lonely",
             "format": " IMAGINE DRAGONS - LONELY 24Bit",
             "size": "32.7mb",
@@ -2019,7 +1873,7 @@
         {
             "id": 24,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "I Wish",
             "format": " IMAGINE DRAGONS - I WISH 24Bit",
             "size": "38.3mb",
@@ -2031,7 +1885,7 @@
         {
             "id": 25,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Continual",
             "format": " IMAGINE DRAGONS - CONTINUAL 24Bit",
             "size": "45.1mb",
@@ -2043,7 +1897,7 @@
         {
             "id": 26,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "They Don't Know You Like I Do",
             "format": " IMAGINE DRAGONS - THEY DON'T KNOW YOU LIKE I DO 24Bit",
             "size": "48.5mb",
@@ -2055,7 +1909,7 @@
         {
             "id": 27,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Wrecked",
             "format": " IMAGINE DRAGONS - WRECKED 24Bit",
             "size": "49.5mb",
@@ -2067,7 +1921,7 @@
         {
             "id": 28,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Monday",
             "format": " IMAGINE DRAGONS - MONDAY 24Bit",
             "size": "39.1mb",
@@ -2079,7 +1933,7 @@
         {
             "id": 29,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "#1",
             "format": " IMAGINE DRAGONS - #1 24Bit",
             "size": "42.9mb",
@@ -2091,7 +1945,7 @@
         {
             "id": 30,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Easy Come Easy Go",
             "format": " IMAGINE DRAGONS - EASY COME EASY GO 24Bit",
             "size": "35.4mb",
@@ -2103,7 +1957,7 @@
         {
             "id": 31,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "Giants",
             "format": " IMAGINE DRAGONS - GIANTS 24Bit",
             "size": "42.6mb",
@@ -2115,7 +1969,7 @@
         {
             "id": 32,
             "aName": "Imagine Dragons   Mercury   Acts 1 & 2 (2022)]",
-            "aid": 7,
+            "aid": 6,
             "name": "It's Ok",
             "format": " IMAGINE DRAGONS - IT'S OK 24Bit",
             "size": "39.6mb",
